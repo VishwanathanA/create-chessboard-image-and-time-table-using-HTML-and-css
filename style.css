@@ -1,0 +1,24 @@
+table,th,td{
+    border:4px solid black;
+    border-collapse: collapse;
+}
+th{
+    border-color: 8px solid white;
+    padding: 8px;
+}
+td{
+    padding: 40px;
+}
+.time{
+    padding-left: 50px;
+}
+td:hover{
+    background-color: skyblue;
+}
+th:hover{
+    background-color: skyblue;
+}
+table{
+    margin: 29%;
+    margin-top: 100px;
+}
